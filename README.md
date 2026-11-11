@@ -1,4 +1,4 @@
-# Hi, I'm Saher Usman 👋
+# Hi, I'm Saher Usman
 
 ### Aspiring Linux & AI Engineer | Open-Source Learner
 
