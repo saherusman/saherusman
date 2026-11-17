@@ -25,7 +25,7 @@ Currently, I'm focused on developing my skills in **Linux administration,Git, CI
 
 - Strengthen Linux administration and troubleshooting skills.
 - Build reliable Python applications and automation tools.
-- Develop practical CI/CD and DevOps experience.
+- Develop practical CI/CD.
 - Build and experiment with AI-powered applications.
 - Contribute to real-world projects and continuously improve my engineering skills.
 
